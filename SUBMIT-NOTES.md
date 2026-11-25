@@ -1,6 +1,12 @@
 # SUBMIT-NOTES (untuk parent agent — Bahasa Indonesia)
 
-## Status
+## Status 25 Nov 2026 (koordinator Devpost)
+- ✅ Repo GitHub PUBLIK: https://github.com/Muhsafsla3/skyshot (LICENSE MIT terdeteksi, commit 624aa2d)
+- ✅ Demo live: https://muhsafsla3.github.io/skyshot/ (GitHub Pages, index + game.js + logic.js HTTP 200)
+- ✅ Video demo: `video/demo-video.mp4` — 2:45, 1920×964, H.264 yuv420p faststart, decode terverifikasi (attract → ronde 60 dtk penuh skor 45.325, akurasi 89%, grade S → simpan inisial MHS → reload leaderboard tetap ada → walkthrough logic.js + test-logic.js). **BELUM di-YouTube — upload ke YouTube Public (channel tabibqiu9) via browser task, lalu link-nya masuk form Devpost.**
+- SISA (top-level/browser): buka proyek sekali di WebStorm pakai kode trial dari registrasi Devpost → Join Hackathon sebagai Muhsafsla3 → submit (kategori 3 + bonus AI workflow via AI_SHOWCASE.md). Deadline 13 Jan 2027 03:00 WITA.
+
+## Status (lama)
 Game SELESAI + dites: 9/9 unit test lolos, 4 file serve HTTP 200, bug formatTime
 ketemu tes dan sudah diperbaiki. Paket submission lengkap di
 `~/workspace/devpost-cloud9-jetbrains/`.
